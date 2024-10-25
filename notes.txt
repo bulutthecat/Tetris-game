@@ -1,0 +1,26 @@
+Game themes:
+
+- Tetris game
+- Soviet Union / 8-bit style (pixel fireplace)
+- budget / time managment aspects
+
+Game idea:
+- labor job (simulated through tetris difficulty)
+- representation of food, and time which needs to be managed
+- game gets harder as you play
+- different endings
+- 'levels' in the form of in-game 'years'
+
+Gameplay mechanics:
+
+- if you cant clear a row in time:
+  > There is a penalty
+
+- There is a timelimit, at the end, the level ends
+
+- There are family members which you need to look after:
+  > food / water
+  > medicine
+  > heating
+
+- Five main endings:
